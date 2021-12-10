@@ -45,4 +45,4 @@ for x in fl:
     if y + x == target and y != x:
         print(x,y)
         print('sum the target')
-    else: print('no couple of numbers sum the target')
+    else: print('no other couple of numbers sum the target')
